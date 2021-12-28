@@ -1348,15 +1348,15 @@ fourthway.addEventListener('click',checkEvent);
 // embed map on webpage
 // to upload a file in form
 
-// <div class = "container">
-// <h3 class="Blue">Book Name : <span>${obj.name}</span></h3>
-// <p class = "main" > Author's Name <span>${obj.authors}</span></p>
-// <p class = "main" > Isbn : <span>${obj.isbn}</span></p>
-// <p class = "main"> Number Of Pages : <span>${obj.numberOfPages}</span></p>
-// <p class = "main" > Publisher's Name : <span>${obj.publisher}</span></p>
-// <p class = "main"> Date : <span>${obj.released}</span></p>
-// <p class = "main"> Characters : <span>${obj.characters}</span></p> 
-// `
+<div class = "container">
+<h3 class="Blue">Book Name : <span>${obj.name}</span></h3>
+<p class = "main" > Author's Name <span>${obj.authors}</span></p>
+<p class = "main" > Isbn : <span>${obj.isbn}</span></p>
+<p class = "main"> Number Of Pages : <span>${obj.numberOfPages}</span></p>
+<p class = "main" > Publisher's Name : <span>${obj.publisher}</span></p>
+<p class = "main"> Date : <span>${obj.released}</span></p>
+<p class = "main"> Characters : <span>${obj.characters}</span></p> 
+`
 
 
 

@@ -35,8 +35,19 @@ const displayData =  (obj)=>{
     maincontainer.innerHTML += `
     <div class = "container">
     
-<h3> Books Name :Name <span>Name:${obj.name}</span></h3>
 
 
+<div class = "container">
+<h3 class="Blue">Book Name : <span>${obj.name}</span></h3>
+<p class = "main" > Author's Name <span>${obj.authors}</span></p>
+<p class = "main" > Isbn : <span>${obj.isbn}</span></p>
+<p class = "main"> Number Of Pages : <span>${obj.numberOfPages}</span></p>
+<p class = "main" > Publisher's Name : <span>${obj.publisher}</span></p>
+<p class = "main"> Date : <span>${obj.released}</span></p>
 
-    </div>`}
+</div>
+
+</div>`
+}
+
+    
