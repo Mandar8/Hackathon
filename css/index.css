@@ -1,0 +1,89 @@
+#main{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(65, 63, 63);
+    text-align: center;
+    font-size: 50px;
+    font-family:cursive;
+    color: aliceblue
+    ;
+margin left: center;
+}
+input{
+    width: 475px;
+    position: absolute;
+    left: 35%;
+    bottom: 80%;
+    color: rgb(65, 63, 63);
+   border: 0 solid ;
+   border-radius: 10px;
+   
+   background-color: rgb(65, 63, 63);
+}
+#area{
+    width: auto;
+    height: 600px ;
+    background-color: rgb(158, 158, 131);
+position: relative;
+margin: center
+;
+}
+
+#bigbox{
+    width:250px;
+    height: 450px;
+    background-color: rgb(65, 63, 63);
+    right: ;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    border: 5px solid rgb(65, 63, 63);
+border-radius: 20px; 
+}
+
+#box1{
+    width: 100px;
+    background-color: rgb(65, 63, 63);
+    height: 100px;
+    position: absolute ;
+    left : 115% ;
+    bottom: 65%;
+border: 5px solid rgb(65, 63, 63);
+border-radius: 20px;
+margin :center;
+}
+#box2{
+    width: 100px;
+    background-color: rgb(65, 63, 63);
+    height: 100px;
+    position: absolute ;
+    left :190% ;
+    bottom: 65%;
+    border: 5px solid rgb(65, 63, 63);
+border-radius: 20px;
+margin: center ;
+}
+#box3{
+    width: 100px;
+    background-color: rgb(65, 63, 63);
+    height: 100px;
+    position: absolute ;
+    left : 275% ;
+    bottom: 65%;
+    border: 5px solid rgb(65, 63, 63);
+    border-radius: 20px;
+    margin : center;
+}
+#bigbox4{
+    width: 475px;
+    height: 200px;
+    background-color:rgb(65, 63, 63);
+    position: absolute;
+    top: 50%;
+    left: 115%;
+    border: 5px solid rgb(65, 63, 63);
+border-radius: 20px;
+
+;
+
+}
