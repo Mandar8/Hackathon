@@ -12,8 +12,8 @@ margin left: center;
 input{
     width: 475px;
     position: absolute;
-    left: 35%;
-    bottom: 80%;
+    left: 45%;
+    bottom: 85%;
     color: rgb(65, 63, 63);
    border: 0 solid ;
    border-radius: 10px;
@@ -35,10 +35,10 @@ margin: center
     background-color: rgb(65, 63, 63);
     right: ;
     position: absolute;
-    left: 20%;
+    left: 27%;
     top: 25%;
     border: 5px solid rgb(65, 63, 63);
-border-radius: 20px; 
+border-radius: 20px
 }
 
 #box1{
@@ -57,7 +57,7 @@ margin :center;
     background-color: rgb(65, 63, 63);
     height: 100px;
     position: absolute ;
-    left :190% ;
+    left :195% ;
     bottom: 65%;
     border: 5px solid rgb(65, 63, 63);
 border-radius: 20px;
