@@ -1,3 +1,31 @@
-.checked{
-    color: orange;
+body {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: blue;
+
 }
+
+.header-container{
+    text-align: center;
+    margin-top: 20px;
+    background: linear-gradient(to bottom, yellow,blue,red ) ;
+
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: lem;
+    padding: 0.5em;
+    margin: 0 auto;
+    background : linear-gradient(red);
+    border: 5px solid black;
+}
+.container{
+    background-color: rgb(72, 37, 167);
+    border: 5px black solid;
+}
+
+
